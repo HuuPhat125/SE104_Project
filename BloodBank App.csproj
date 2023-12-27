@@ -49,6 +49,12 @@
   <ItemGroup>
     <Compile Include="BLL\loginBLL.cs" />
     <Compile Include="DAL\loginDAL.cs" />
+    <Compile Include="UI\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
     <Compile Include="UI\frmSplash.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -34,8 +34,8 @@ namespace BloodBankManagementSystem.UI
                 this.Hide();
 
                 //Display the Login Form
-                //frmLogin login = new frmLogin();
-                //login.Show();
+                frmLogin login = new frmLogin();
+                login.Show();
             }
         }
 
