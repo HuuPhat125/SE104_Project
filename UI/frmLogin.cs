@@ -54,9 +54,9 @@ namespace BloodBankManagementSystem.UI
                 loggedInUser = l.username;
 
                 //Display home Form
-                //frmHome home = new frmHome();
-                //home.Show();
-                //this.Hide(); //To CLose Login Form
+                frmHome home = new frmHome();
+                home.Show();
+                this.Hide(); //To CLose Login Form
             }
             else
             {
