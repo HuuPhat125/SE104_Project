@@ -103,6 +103,16 @@ namespace BloodBank_App.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Blood_Bank_MS_3211 {
+            get {
+                object obj = ResourceManager.GetObject("Blood_Bank_MS_3211", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Blood_Bank_MS_364 {
             get {
                 object obj = ResourceManager.GetObject("Blood_Bank_MS_364", resourceCulture);
