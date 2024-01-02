@@ -41,8 +41,8 @@ namespace BloodBankManagementSystem.UI
         private void donorsToolStripMenuItem_Click(object sender, EventArgs e)
         {
             //Open Manage Donors Form
-            //frmDonors donors = new frmDonors();
-            //donors.Show();
+            frmDonors donors = new frmDonors();
+            donors.Show();
         }
 
         private void frmHome_Load(object sender, EventArgs e)
