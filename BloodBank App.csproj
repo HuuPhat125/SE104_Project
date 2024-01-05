@@ -121,7 +121,6 @@
     <EmbeddedResource Include="UI\frmHome.resx">
       <DependentUpon>frmHome.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="database\BloodBank App.bak" />
     <None Include="images\Thumbs.db" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
